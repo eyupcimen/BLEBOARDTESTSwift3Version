@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "37b2d8b5-36ec-5146-ab64-fb291b058c5b" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "37b2d8b5-36ec-5146-ab64-fb291b058c5b" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "696CD19A-8B6B-4E22-B899-28B0FC3353B6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "37b2d8b5-36ec-5146-ab64-fb291b058c5b" : "BLEBOARD_TEST\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BLEBOARD_TEST",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BLEBOARD_TEST.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/svn17.devzing.com\/krdarrah\/BLEBOARD",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "37b2d8b5-36ec-5146-ab64-fb291b058c5b"
+    }
+  ]
+}
